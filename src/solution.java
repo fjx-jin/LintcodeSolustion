@@ -17,6 +17,8 @@ import javax.xml.transform.Templates;
 public class solution {
 
 	public static void main(String[] args) {
+		
+		
 		// TODO Auto-generated method stub
 		solution solution=new solution();
 		//List<String> object=solution.generatePossibleNextMoves("++++");
